@@ -35,3 +35,8 @@ updated_at TIMESTAMP DEFAULT NOW()
 
 INSERT INTO users(name, email)
 VALUES ('Admin', 'admin@admin.com');
+
+INSERT INTO prices(symbol, price)
+VALUES 
+  ('TCS', 3150.00),
+  ('INFY', 1545.00);
