@@ -90,7 +90,8 @@
           }
         </pre>
     2. API Response
-       <img width="1117" height="191" alt="image" src="https://github.com/user-attachments/assets/edf41803-173e-4524-9838-b5bfa34fa301" />
+       <img width="1386" height="299" alt="Screenshot 2025-11-22 at 19 19 21" src="https://github.com/user-attachments/assets/df807ba5-e4a6-4cd5-b9aa-02279b55a853" />
+
 
 3. Transaction History
    - 1. URL [/transactions/history?user_id=1]
@@ -98,7 +99,8 @@
           "user_id" : 1
         </pre>
      2. API Response
-        <img width="1108" height="358" alt="image" src="https://github.com/user-attachments/assets/945b1b90-9e5d-4e70-8247-d955804d5d12" />
+        <img width="1369" height="362" alt="Screenshot 2025-11-22 at 19 20 43" src="https://github.com/user-attachments/assets/7355267e-49f9-4187-bfcb-80e7d8b7f3a1" />
+
 
 4. Get Portfolio Summary
    - 1. Request URL [/portfolio-summary/?user_id=1]
@@ -106,7 +108,7 @@
           "user_id" : 1
         </pre>
      2. Response API
-        <img width="1108" height="399" alt="image" src="https://github.com/user-attachments/assets/041232d1-9a0c-450a-8231-ec8e0127b6d7" />
+        <img width="1065" height="397" alt="Screenshot 2025-11-21 at 22 26 04" src="https://github.com/user-attachments/assets/63b12e6f-e8b7-49de-bbbf-2d091bf5c28d" />
 
      3. Calculation Logic:
         <pre>
@@ -117,9 +119,7 @@
         </pre>
 
 * <h3>Database Schema:</h3>
-<img width="1125" height="408" alt="Schema" src="https://github.com/user-attachments/assets/a1604edf-332b-4943-b8f3-240423a31226" />
-
-
+<img width="1125" height="408" alt="Schema" src="https://github.com/user-attachments/assets/b55c54e7-4ec2-4fa7-99de-7d0bdf14b677" />
 
 
 
