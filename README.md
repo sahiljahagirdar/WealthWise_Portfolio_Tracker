@@ -90,7 +90,7 @@
           }
         </pre>
     2. API Response
-       <img width="1386" height="299" alt="Screenshot 2025-11-22 at 19 19 21" src="https://github.com/user-attachments/assets/df807ba5-e4a6-4cd5-b9aa-02279b55a853" />
+       <img width="1384" height="193" alt="Screenshot 2025-11-22 at 19 24 58" src="https://github.com/user-attachments/assets/0375a605-79f7-46aa-ae8a-44143b456fe1" />
 
 
 3. Transaction History
@@ -108,7 +108,8 @@
           "user_id" : 1
         </pre>
      2. Response API
-        <img width="1065" height="397" alt="Screenshot 2025-11-21 at 22 26 04" src="https://github.com/user-attachments/assets/63b12e6f-e8b7-49de-bbbf-2d091bf5c28d" />
+        <img width="1379" height="286" alt="Screenshot 2025-11-22 at 19 23 43" src="https://github.com/user-attachments/assets/06a3bfe6-15c3-42c6-ae10-b063db046bce" />
+
 
      3. Calculation Logic:
         <pre>
