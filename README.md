@@ -75,7 +75,8 @@
           }
         </pre>
      2. API Response
-        <img width="1111" height="143" alt="image" src="https://github.com/user-attachments/assets/1e9f1225-5751-4720-879d-ade0d3f55a19" />
+
+        <img width="915" height="122" alt="Screenshot 2025-11-22 at 19 12 30" src="https://github.com/user-attachments/assets/28f6d490-8fd1-4ee9-bcd3-2473688c007a" />
 2. BUY/SELL Transaction
    - 1. URL [/transactions/]
         <pre>
