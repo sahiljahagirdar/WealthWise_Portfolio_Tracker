@@ -1,3 +1,5 @@
+CREATE DATABASE portfolio;
+
 CREATE TABLE users(
 id SERIAL PRIMARY KEY,
 name VARCHAR(100),
@@ -9,7 +11,7 @@ CREATE TABLE transactions(
 id SERIAL PRIMARY KEY,
 user_id INT REFERENCES users(id) ON DELETE CASCADE,
 symbol VARCHAR (20),
-type VARCHAR(10) CHECK (TYPE IN ('BUY','SELL')),
+type VARCHAR(10) CHECK (type IN ('BUY','SELL')),
 units NUMERIC (12,2),
 price NUMERIC (12,2),
 date DATE,
